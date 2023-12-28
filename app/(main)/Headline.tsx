@@ -9,7 +9,7 @@ import { SocialLink } from '~/components/links/SocialLink'
 function Developer() {
   return (
     <span className="group">
-      <span>Here you are meeting:</span>
+      <span>Keep living, keep loving</span>
     </span>
   )
 }
@@ -55,7 +55,7 @@ export function Headline() {
         }}
       >
         <Balancer>
-          能同途偶遇在這星球上,是某種緣份,我多麼慶幸
+          能同途偶遇在這星球上, 是某種緣份, 我多麼慶幸
         </Balancer>
       </motion.p>
       <motion.div
